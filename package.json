@@ -1,0 +1,27 @@
+{
+  "name": "ms",
+  "version": "1.0.0",
+  "description": "A ms parser for a bot, Stereo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stereo-Developers/ms.git"
+  },
+  "keywords": [
+    "ms",
+    "parser-ms",
+    "parser"
+  ],
+  "author": "Sxmurai <gavrw0607@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stereo-Developers/ms/issues"
+  },
+  "homepage": "https://github.com/Stereo-Developers/ms#readme",
+  "devDependencies": {
+    "@types/node": "^14.11.2"
+  }
+}

@@ -1,6 +1,6 @@
 # @stereo/ms
 
-The ms module Stereo uses for music related commands, since the pre-existing module doesn't have a feature we wanted.
+The ms module Stereo uses for music related commands, since the [pre-existing module](https://npmjs.com/ms) doesn't have a feature we wanted.
 
 ---
 
